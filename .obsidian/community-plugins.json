@@ -1,4 +1,6 @@
 [
   "homepage",
-  "obsidian-front-matter-title-plugin"
+  "obsidian-front-matter-title-plugin",
+  "obsidian-tasks-plugin",
+  "dataview"
 ]
