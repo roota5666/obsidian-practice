@@ -1,7 +1,7 @@
 ---
-uid: {{date:YYYYMM}}00000000
+uid: {{date:YYYYMM00000000}}
 title: 📆{{date:YYYY-MM}}
-date: {{date:YYYY-MM}}-01 00:00:00
+date: {{date:YYYY-MM-01 00:00:00}}
 note_type:
   - "monthly note"
 ---
