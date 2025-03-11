@@ -1,0 +1,25 @@
+/* 特殊URLのprefix絵文字 */
+.external-link {
+    word-break: break-all;
+}
+.external-link::before {
+    display: inline-block;
+    filter: invert(1) hue-rotate(180deg);
+    width: 16px;
+    margin-right: 5px;
+}
+.external-link[href*="github.com"]::before {
+    content: url(https://simpleicons.org/icons/github.svg);
+}
+
+.external-link[href*="youtube.com"]::before {
+    content: url(https://simpleicons.org/icons/youtube.svg);
+}
+
+.external-link[href*="x.com"]::before {
+    content: url(https://simpleicons.org/icons/x.svg);
+}
+
+.external-link[href*="wikipedia.org"]::before {
+    content: url(https://simpleicons.org/icons/wikipedia.svg);
+}
