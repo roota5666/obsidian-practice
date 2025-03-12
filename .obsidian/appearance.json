@@ -4,6 +4,7 @@
     "url-icon",
     "hidden",
     "dashboard-ReadLineLength",
-    "dashboard"
+    "dashboard",
+    "__header-style"
   ]
 }

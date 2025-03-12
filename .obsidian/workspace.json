@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "000_zettelkasten/00000000000000.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "pinned": true,
@@ -35,6 +35,7 @@
       {
         "id": "66433582f5ec965a",
         "type": "tabs",
+        "dimension": 64.74747474747474,
         "children": [
           {
             "id": "b67223f5f8675c9d",
@@ -75,12 +76,40 @@
               "icon": "lucide-bookmark",
               "title": "ブックマーク"
             }
+          },
+          {
+            "id": "573b7b6e1ef3bb57",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b74159e96f87a0ad",
+        "type": "tabs",
+        "dimension": 35.25252525252525,
+        "children": [
+          {
+            "id": "c8a405c2fa1c6ebd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 250
   },
   "right": {
     "id": "73b3fe8b2c05cea2",
@@ -153,8 +182,7 @@
               "title": "00000000000000のアウトライン"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,16 +204,5 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "000_zettelkasten/00000000000000.md",
-    "README.md",
-    "000_zettelkasten/新規 テキスト ドキュメント.txt",
-    "000_zettelkasten/新しいフォルダー",
-    "000_zettelkasten",
-    "新しいフォルダー",
-    "001_template/tm_002_tech.md",
-    "001_template/auto/uniquenote.md",
-    "001_template/auto/tm_011_monthly.md",
-    "001_template/auto/tm_001_diary.md",
-    "001_template/auto",
-    "001_template"
   ]
 }
