@@ -1,0 +1,5 @@
+{
+  "format": "YYYYMMDD000000",
+  "folder": "000_zettelkasten",
+  "template": "001_template/auto/tm_001_diary"
+}

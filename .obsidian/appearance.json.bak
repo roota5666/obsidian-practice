@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "hidden",
+    "url-icon",
+    "__header-style"
+  ]
+}

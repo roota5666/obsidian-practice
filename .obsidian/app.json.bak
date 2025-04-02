@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "livePreview": false,
+  "tabSize": 2,
+  "useMarkdownLinks": true,
+  "useTab": true,
+  "showLineNumber": true,
+  "autoPairMarkdown": false,
+  "defaultViewMode": "preview"
+}
